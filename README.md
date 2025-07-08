@@ -98,11 +98,11 @@ Integrate driver comparison analytics across seasons
 ## 👨‍👩‍👧 Group Contribution
 This project was a full-team effort, developed with the passion of an F1 pit crew and the speed of a GitHub Action 🛠️⚡
 
-Adharsh — DevOps engineer & data pipeline commander 👨‍💻
+## Adharsh — DevOps engineer & data pipeline commander 👨‍💻
 
-Vaishali — Power BI dashboard queen 👑📊
+## Vaishali — Power BI dashboard queen 👑📊
 
-Shivali — Azure storage ninja & project hype manager ☁️⚔️
+## Shivali — Azure storage ninja & project hype manager ☁️⚔️
 
 Together, we turned laps of raw CSVs into beautiful dashboards, and managed not to crash into NullTypeError() on the last turn 🏎️💥
 
